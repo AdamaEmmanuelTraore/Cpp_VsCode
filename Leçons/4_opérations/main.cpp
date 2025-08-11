@@ -30,5 +30,12 @@ int main()
     player_level += 1;
     cout<< "Niveau actuel : " << player_level <<endl;
 
+    // Délucidation
+    int x = 5;
+    int y = x++;                        // y = 5
+    int sum = x + y;                    // sum = 11
+    cout << x << " - " << y << endl;    // 6 - 5
+    cout << sum;                        // 11
+
     return 0;
 }
