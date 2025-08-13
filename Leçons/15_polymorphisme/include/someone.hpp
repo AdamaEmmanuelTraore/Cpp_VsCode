@@ -12,6 +12,8 @@
                                    En C++, pour avoir une classe abstraite il faut qu'au moin
                                    une des méthode soit déclarer comme virtual pure
                                    en fesant (virtual retour nom méthode() = 0).
+                                   Notez bien que les classe abstraite peuvent etre déclarer
+                                   mais pas instancié.
                                    Sait bien aussi d'avoir un destructeur virtuel.
 */
 
