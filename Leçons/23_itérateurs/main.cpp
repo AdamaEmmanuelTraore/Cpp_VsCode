@@ -19,8 +19,6 @@
     type_de_structure::iterator -> rend()
     type_de_structure::iterator -> next()
     type_de_structure::iterator -> prev()
-    type_de_structure::iterator -> rbegin()
-    type_de_structure::iterator -> rend()
     ------------------------------------------------------------------------------------------------------------
     std::begin(collection)  -> un itérateur qui pointe vers le premier élément de la collection.
     std::cbegin(collection) -> un itérateur constant qui pointe vers le premier élément de la collection.
